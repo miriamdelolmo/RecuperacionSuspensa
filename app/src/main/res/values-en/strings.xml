@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recuperacion</string>
+    <string name="botonActRelative">Act Relative</string>
+    <string name="botonMensaje">Message</string>
+    <string name="ActBBDD">Activity BBDD</string>
+    <string name="ActividadRelative">Relative Activity</string>
+    <string name="titActRelative">Relative Layout Activity</string>
+    <string name="txtCoches">Insert/Select Cars</string>
+    <string name="modelo">Model</string>
+    <string name="marca">Brand</string>
+    <string name="btnInsert">Insert</string>
+    <string name="txtCV">Modify CV</string>
+    <string name="updateTxtModelo">Car model to modify</string>
+    <string name="newCv">New CV value</string>
+    <string name="btnCV">Update CV</string>
+</resources>

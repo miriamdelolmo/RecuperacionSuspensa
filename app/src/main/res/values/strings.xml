@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Recuperacion</string>
+    <string name="botonActRelative">Act Relative</string>
+    <string name="botonMensaje">Mensaje</string>
+    <string name="ActBBDD">Actividad BBDD</string>
+    <string name="ActividadRelative">Actividad Relative</string>
+    <string name="titActRelative">Actividad Relative Layout</string>
+    <string name="txtCoches">Insertar/Seleccionar Coches</string>
+    <string name="modelo">Modelo</string>
+    <string name="marca">Marca</string>
+    <string name="btnInsert">Insertar</string>
+    <string name="txtCV">Modificar CV</string>
+    <string name="updateTxtModelo">Modelo de coche a modificar</string>
+    <string name="newCv">Nuevo valor CV</string>
+    <string name="btnCV">Modificar CV</string>
+</resources>
